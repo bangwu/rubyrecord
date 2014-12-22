@@ -1,0 +1,6 @@
+Mon, 22 Dec 2014 10:49:59 +0800
+README.rdoc	Mon, 22 Dec 2014 09:14:40 +0800
+app/controllers/application_controller.rb	Mon, 22 Dec 2014 09:14:40 +0800
+app/helpers/application_helper.rb	Mon, 22 Dec 2014 09:14:40 +0800
+app/models/product.rb	Mon, 22 Dec 2014 10:06:16 +0800
+app/models/user.rb	Mon, 22 Dec 2014 10:40:59 +0800
